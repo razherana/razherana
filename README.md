@@ -1,39 +1,32 @@
-# Welcome to Herana's Projects
+# Hallo, I'm Herana
 
-Hi there! I'm Izakatsimba Herana Razafindralambo, a passionate developer from Madagascar. Here's a brief overview of my journey, skills, and current projects. Feel free to explore and contribute!
-
----
-
-## About Me
-- **Age**: 17 years old (2025)
-- **Education**: Second-year university student in web development
-- **Languages**: English, French, Malagasy. Currently learning Japanese
-- **Hobbies**: Anime (*Kaguya-sama: Love Is War* fan), dream exploration, and coding creative solutions
-- **Goal**: To build innovative applications and achieve financial independence
+Hi there! I'm Herana, a passionate developer from Madagascar. Here's a brief overview of my journey, skills, and current projects. Feel free to explore and contribute!
 
 ---
 
 ## Skills
 - **Programming Languages**: PHP, Java
 - **Frameworks**: Laravel, Flight PHP
-- **Databases**: PostgreSQL, MySQL, Oracle DB
-- **Tools**: Kali Linux
+- **Databases**: PostgreSQL, MySQL, Oracle DB, Access Database
 
 ---
 
 ## Key Projects
 
-### 1. Custom PHP Framework
-- Developed an independent PHP framework with components for routing, database handling, and debugging
-- Building an ORM to manage complex relations like `hasMany` and `belongsTo`
-- Working on a Blade-inspired template system with plans for VS Code extension integration
+### 1. Lorm (on-hold)
+- An ORM to handle relations and regular database operations.
+- Lorm is currently written in 2 languages, PHP and Java
+- Java has more functionalities, reading from a config file, generating models from database.
+- PHP is un-maintained for the moment, so needing more people to work on it.
 
----
-
-## Goals for the Future
-- Advance coding skills, teamworking skills
-- Create meaningful connections between web development and real-world use cases
-- Build a small but impactful development team focused on innovation
+### 2. php_modules (on-hold)
+php tools to write code faster like :
+- Piewpiew : a customizable view renderer (with a built-in php and xml based)
+- CheckInput : a data ruling tool (required;number;in:9,3,2,'test';and_many_more)
+- Lorm : ORM
+- ConfigReader : a simple config reader
+- Auth : Easy authentification using Lorm
+- DataType : currently working to implement List and Dict based on C-Sharp'List and Dict
 
 ---
 
@@ -46,7 +39,6 @@ Hi there! I'm Izakatsimba Herana Razafindralambo, a passionate developer from Ma
 ## Contact Me
 - **GitHub**: [Herana](https://github.com/razherana)
 - **Email**: [razherana@gmail.com]
-- **Languages**: English, French, Malagasy
 
 ---
 
